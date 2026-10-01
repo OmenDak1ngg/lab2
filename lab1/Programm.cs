@@ -43,7 +43,7 @@ namespace lab1
             Calculator calculator = new Calculator();
 
             double minSupport = 0.05;
-            double minConfidence = 0.20;
+            double minConfidence = 0.15;
 
             List<AssociationRule> rules =
                 calculator.FindAssociationRules(

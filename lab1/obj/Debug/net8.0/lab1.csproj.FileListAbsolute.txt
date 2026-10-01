@@ -27,3 +27,4 @@ E:\ucheba\intelanaldan\lab2\lab1\obj\Debug\net8.0\refint\lab1.dll
 E:\ucheba\intelanaldan\lab2\lab1\obj\Debug\net8.0\lab1.pdb
 E:\ucheba\intelanaldan\lab2\lab1\obj\Debug\net8.0\lab1.genruntimeconfig.cache
 E:\ucheba\intelanaldan\lab2\lab1\obj\Debug\net8.0\ref\lab1.dll
+E:\ucheba\intelanaldan\lab2\lab1\obj\Debug\net8.0\lab1.sourcelink.json

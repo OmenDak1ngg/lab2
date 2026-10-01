@@ -46,8 +46,7 @@
               "RelativeToolTip": "lab1\\basket.csv",
               "ViewState": "AgIAACAdAAAAAAAAAAAgwD4dAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2026-09-19T06:13:46.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-19T06:13:46.948Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "lab1\\AssociationRule.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAcwCEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-19T05:05:42.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-19T05:05:42.437Z"
             },
             {
               "$type": "Document",
@@ -70,7 +68,7 @@
               "RelativeDocumentMoniker": "lab1\\Calculator.cs",
               "ToolTip": "E:\\ucheba\\intelanaldan\\lab2\\lab1\\Calculator.cs",
               "RelativeToolTip": "lab1\\Calculator.cs",
-              "ViewState": "AgIAALYAAAAAAAAAAAAAwN4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAewGgAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-05T05:33:40.932Z",
               "EditorCaption": ""
@@ -83,7 +81,7 @@
               "RelativeDocumentMoniker": "lab1\\Programm.cs",
               "ToolTip": "E:\\ucheba\\intelanaldan\\lab2\\lab1\\Programm.cs",
               "RelativeToolTip": "lab1\\Programm.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAADwvy0AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAjwC0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-05T05:24:30.161Z",
               "EditorCaption": ""
@@ -98,8 +96,7 @@
               "RelativeToolTip": "lab1\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-05T05:22:56.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-05T05:22:56.571Z"
             },
             {
               "$type": "Document",
@@ -111,8 +108,7 @@
               "RelativeToolTip": "lab1\\Buyer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-05T05:20:52.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-05T05:20:52.865Z"
             }
           ]
         }
